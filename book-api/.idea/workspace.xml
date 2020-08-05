@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4cef793-938b-4ddc-9da9-2680b50628b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/assets/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Library/Library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Library/LibraryList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/MyToast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/NavigationBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Welcome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/library/libraryActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/library/libraryReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/library/libraryTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/services/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/BookApiApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/BookApiApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/book/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/springbootstarter/library/LibraryService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fe89IW8r4ywa0AqXnNSKjlpHog" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/reactjs/src/components" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arkav\Desktop\Important_Documents\Book_API\book-api\src\main\webapp\reactjs\src\components" />
+      <recent name="C:\Users\arkav\Desktop\Important_Documents\Book_API\book-api\src\main\webapp\reactjs\src\services" />
+      <recent name="C:\Users\arkav\Desktop\Important_Documents\Book_API\book-api\src\main\webapp\reactjs\src\services\library" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4cef793-938b-4ddc-9da9-2680b50628b9" name="Default Changelist" comment="" />
+      <created>1596567106490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596567106490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596567363371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596567363371" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1596578116925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596578116925" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596578127312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596578127312" />
+  </component>
+</project>
